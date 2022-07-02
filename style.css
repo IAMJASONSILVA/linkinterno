@@ -8,6 +8,8 @@ img {
     width:90px;
     height:90px;
     border-radius: 15px;
+    box-shadow: 2px 2px 5px rgb(0, 0, 0, 0.400);
+    box-sizing: border-box;
 }
 
 h1 {
@@ -29,4 +31,22 @@ h1.normal {
 
 }
 
+section img:hover {
+    border: 2px solid rgba(255, 255, 255, 0.637);
+    transform: translate(-3px, -3px);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.623);
+    transition: transform .1s, border 1s;
+    
+}
+.footer > p{
+
+}
+
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(7, 7, 7);
+    padding: 10px;
+    
+}
 
