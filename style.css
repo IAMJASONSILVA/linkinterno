@@ -21,14 +21,16 @@ h1 {
 }
 
 h1.normal {
-    background-color: white;
-    color: black;
-    background-position: 50px;
+    background-color: rgba(248, 241, 241, 0.623);
+    color: rgb(3, 3, 3);
+    background-position: 4px;
     padding-top: 1vh;
-    padding-bottom: 10px;
+    padding-bottom: 6px;
     line-height: 1.5em;
     text-align: center;
-
+    top: 10px;
+    left: 10px;
+    
 }
 
 section img:hover {
