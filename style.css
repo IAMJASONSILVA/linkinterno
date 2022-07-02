@@ -34,18 +34,19 @@ h1.normal {
 }
 
 section img:hover {
-    border: 2px solid rgba(255, 255, 255, 0.637);
+    border: 1px solid rgba(201, 34, 22, 0.623);
     transform: translate(-3px, -3px);
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.623);
-    transition: transform .1s, border 1s;
+    box-shadow: 5px 5px 5px rgba(201, 34, 22, 0.623);
+    transition: transform .1s, border .1s;
     
 }
 
 footer {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Helvetica, sans-serif;
     text-align: center;
+    text-shadow: 10px;
     color: rgb(0, 0, 0);
-    padding: 10px;
-    
+   
+   
 }
 
