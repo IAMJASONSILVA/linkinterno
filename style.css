@@ -1,5 +1,10 @@
 @charset "UTF-8";
 
+* {
+    margin: 4px;
+    padding: 0px;
+}
+
 body{
     background: rgb(218, 218, 218) url('imagens/fundo/pexels-photo-347139.jpeg') center center no-repeat fixed;
     background-size: cover;       
@@ -43,10 +48,10 @@ section img:hover {
 
 footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Helvetica, sans-serif;
-    text-align: center;
-    text-shadow: 10px;
     color: rgb(0, 0, 0);
-   
-   
+    text-align: center;
+    padding: 10px;
+    
 }
+
 
