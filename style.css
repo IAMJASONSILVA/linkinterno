@@ -38,9 +38,6 @@ section img:hover {
     transition: transform .1s, border 1s;
     
 }
-.footer > p{
-
-}
 
 footer {
     font-family: Arial, Helvetica, sans-serif;
