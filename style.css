@@ -46,10 +46,6 @@ section img:hover {
     
 }
 
-section > a.alfa {
-    width: 400px;
-}
-
 footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Helvetica, sans-serif;
     color: rgb(0, 0, 0);
