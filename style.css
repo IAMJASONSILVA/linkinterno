@@ -17,8 +17,6 @@ img {
     box-sizing: border-box;
 }
 
-
-
 h1 {
     font-family: Arial, Helvetica, sans-serif;
     background-color: white;
@@ -42,7 +40,7 @@ h1.normal {
 
 section img:hover {
     border: 1px solid rgba(201, 34, 22, 0.623);
-    transform: translate(-3px, -3px);
+    transform: translate(-7px, -7px);
     box-shadow: 5px 5px 5px rgba(201, 34, 22, 0.623);
     transition: transform .1s, border .1s;
     
