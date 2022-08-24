@@ -40,16 +40,16 @@ h1.normal {
 
 section img:hover {
     border: 1px solid rgba(201, 34, 22, 0.623);
-    transform: translate(-7px, -7px);
-    box-shadow: 5px 5px 5px rgba(201, 34, 22, 0.623);
+    transform: translate(-5px, -5px);
+    box-shadow: 4px 4px 2px rgba(201, 34, 22, 0.623);
     transition: transform .1s, border .1s;
     
 }
 
 footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Helvetica, sans-serif;
-    color: rgb(0, 0, 0);
-    text-align: center;
+    color: rgb(255, 255, 255);
+    text-align: right;
     padding: 10px;
     
 }
