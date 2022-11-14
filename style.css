@@ -6,7 +6,7 @@
 }
 
 body{
-    background: rgb(218, 218, 218) url('imagens/fundo/exágono\ abstrato.JPG') center center no-repeat fixed;
+    background: rgb(218, 218, 218) url('imagens/fundo/manha\ na\ montanha.jpg');
     background-size: cover;       
 }
 img {
@@ -46,6 +46,7 @@ section img:hover {
     
 }
 
+
 footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Helvetica, sans-serif;
     color: rgb(0, 0, 0);
@@ -53,5 +54,7 @@ footer {
     padding: 10px;
     
 }
+
+
 
 
