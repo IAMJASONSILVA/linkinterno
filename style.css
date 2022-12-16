@@ -1,12 +1,16 @@
 @charset "UTF-8";
 
 * {
-    margin: 4px;
+    margin: 0px;
     padding: 0px;
 }
 
 body{
+<<<<<<< HEAD
     background: rgb(218, 218, 218) url('imagens/fundo/manha\ na\ montanha.jpg');
+=======
+    background: rgb(218, 218, 218) url('imagens/fundo/manhanamontanha.jpg');
+>>>>>>> edac5dbf81227a839e2b1e1d5af247e69fc4cab5
     background-size: cover;       
 }
 img {
@@ -40,8 +44,8 @@ h1.normal {
 
 section img:hover {
     border: 1px solid rgba(201, 34, 22, 0.623);
-    transform: translate(-7px, -7px);
-    box-shadow: 5px 5px 5px rgba(201, 34, 22, 0.623);
+    transform: translate(-5px, -5px);
+    box-shadow: 4px 4px 2px rgba(201, 34, 22, 0.623);
     transition: transform .1s, border .1s;
     
 }
@@ -49,8 +53,8 @@ section img:hover {
 
 footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Helvetica, sans-serif;
-    color: rgb(0, 0, 0);
-    text-align: center;
+    color: rgb(255, 255, 255);
+    text-align: right;
     padding: 10px;
     
 }
